@@ -1,0 +1,183 @@
+@media (max-width: 767px) {
+
+	body * {
+		word-wrap: break-word !important;
+	}
+
+	#black-border{
+		padding-top: 10px;
+	}
+
+	#black-border #intro-text {
+		padding: 15px;
+		text-align: justify;
+	}
+
+	#black-border #page-title h1 {
+		padding: 0px 15px ;
+	}
+
+	#black-border #ccpp {
+		background-position: center;
+		margin-top: 15px;
+	}
+
+	#black-border #instruction-text {
+		padding: 15px;
+		font-weight: 700;
+		padding-bottom: 50px;
+	}
+
+	#black-border #postcards-thumbs .postcard {
+		width: 70%;
+		max-width: 164px;
+		margin: auto;
+		margin-bottom: 20px;
+		text-align: center;
+	}
+
+	.modal-window {
+		width: 90%;
+		margin-left: -45%;
+		top: 220px;
+	}
+
+	.modal-window .postcard-buttons {
+		margin-top: 20px;
+	}
+
+	#send-window .form {
+		margin-top: 20px;
+	}
+
+	#send-window .form .field {
+		text-align: left;
+		min-height: 20px;
+	}
+
+	#main-download-button {
+		display:none;
+	}
+
+	#black-border #footer {
+		line-height: 20px;
+		margin-bottom: 20px;
+		padding: 0px 20px;
+	}
+
+	#black-border #footer #nck-logo {
+		width: 45px;
+		margin: auto;
+		margin-top: 10px;
+	}
+
+	.modal-window .modal-window-content {
+		padding: 30px 20px;
+		text-align: left;
+	}
+
+	.modal-window .modal-window-content .postcard-button.print-button {
+		display: none;
+	}
+
+	.modal-window .modal-window-content .postcard-text {
+		padding: 0px;
+	}
+
+	#black-border #intro-text, .modal-window .modal-window-content .postcard-text {
+		text-align: left;
+	}
+
+	#credits #graphics, #credits #code, #credits #postcards {
+		float: left;
+	}
+
+	#creative-commons, #postcards-author {
+		background-image: none;
+		padding: 20px;
+	}
+
+	#view-window .modal-window-content .postcard-container, #sent-postcard-window .modal-window-content .postcard-container {
+		padding: 2px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+	#black-border #page-title h1 {
+		font-size: 26px;
+		line-height: 32px;
+	}
+
+	#black-border #title-border-right {
+		margin-left: 0px;
+		padding-right: 9px;
+	}
+
+	/*#black-border #title-border-left {
+		height: 24px;
+	}*/
+
+	.modal-window {
+		width: 640px;
+		margin-left: -320px;
+		min-height: 540px;
+	}
+
+	#view-window .modal-window-content .postcard-container, #sent-postcard-window .modal-window-content .postcard-container {
+		padding: 2px;
+	}
+
+	#black-border #footer {
+		line-height: 20px;
+	}
+
+	#black-border #ccpp {
+		background-size: 100px;
+	}
+}
+
+@media (min-width: 980px) and (max-width: 1199px){
+	#black-border #title-border-right {
+		margin-left: 0px;
+		padding-right: 9px;
+	}
+
+	.modal-window {
+		width: 820px;
+		margin-left: -410px;
+		min-height: 610px;
+	}
+
+	#black-border #footer {
+		line-height: 20px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.modal-window {
+		min-height: 700px;
+	}
+}
+
+@media screen {
+	#print {
+		display: none;
+	}
+}
+
+@media print {
+	body {
+		padding: 20pt;
+		font-family: 'Ubuntu', sans-serif;
+	}
+
+	.modal-window, #black-border {
+		display: none !important;
+		visibility: hidden !important;
+	}
+
+	.no-p {
+		display: none;
+		visibility: hidden;
+	}
+}

@@ -1,0 +1,44 @@
+body {
+	padding: 25pt;
+}
+.print {
+	position: static;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.black-border {
+	display: none;
+}
+
+.print-text * {
+	font-size: 11pt;
+	display: block !important;
+	text-align: justify;
+}
+
+.postcard-image {
+	text-align: center;
+}
+
+.postcard-image img {
+	width: 40%;
+	border: 1pt solid #000;
+	padding-bottom: 10pt;
+}
+
+.postcard-buttons {
+	display: none;
+}
+
+.print-logos {
+	margin-top: 40pt;
+	border-top: 1pt solid #000;
+	padding-top: 10pt;
+	padding-bottom: 10pt;
+}
+
+.print-logos img {
+	height: 30pt;
+	width: auto;
+	margin-right: 30pt;
+}

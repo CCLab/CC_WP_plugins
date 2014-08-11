@@ -1,0 +1,1 @@
+CC_WP_plugins=============Wordpress plugins presenting information about Creative Commons licensing and copyright in general. Includes a license chooser.

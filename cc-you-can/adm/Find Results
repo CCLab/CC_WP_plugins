@@ -1,0 +1,339 @@
+Searching 56 files for "license"
+
+/Users/kuba/Desktop/cc-licence-chooser/css/cc-licence-chooser-css-front.css:
+  345  }
+  346  #lc-cnt #cc-intro-blocks .cc-col2 h4, 
+  347: #lc-cnt h4.cc-licence-desc span.cc-license-text, 
+  348  #lc-cnt h4.cc-licence-desc span a,
+  349  #lc-cnt h4.cc-licence-desc strong,
+  ...
+  364      margin: 0;
+  365  }
+  366: #lc-cnt h4.cc-licence-desc span.cc-license-text {
+  367      font-size: 14px;
+  368  }
+
+/Users/kuba/Desktop/cc-licence-chooser/js/jquery.backgroundSize.js:
+   17   *
+   18   * Copyright 2012 @louis_remi
+   19:  * Licensed under the MIT license.
+   20   *
+   21   * This saved you an hour of work?
+
+/Users/kuba/Desktop/cc-licence-chooser/php/cc-licence-chooser-default-content/cc-licence-chooser-default-outcome-by-nc-nd.php:
+   10       <h3> Uznanie Autorstwa - Użycie niekomercyjne - <BR> Bez utworów zależnych 3.0 Polska </h3>
+   11  
+   12:      <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/pl" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">  </span> http://creativecommons.org/licenses/by-nc-nd/3.0/pl </a> 
+   13  
+   14  <div class="cc-outcome-hline"> </div>
+   ..
+   17  <h4 class="cc-licence-desc">
+   18      
+   19:     <span class="cc-license-text"> Ten utwór można:  </span>
+   20      
+   21  </h4>
+   ..
+   31  <h4 class="cc-licence-desc">
+   32      
+   33:     <span class="cc-license-text"> Pod warunkiem:  </span>
+   34      
+   35  </h4>
+   ..
+   58                  <div class="cc-how-to-desc">
+   59                      <p>&copy;[Lista autorów], licencja: [CC-BY-NC-ND 3.0] </p>
+   60:                     <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode">http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode </a>
+   61                      <a href="http://creativecommons.pl/instrukcja-foto/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć fotografę na picassa/fickr</a>
+   62                  </div>
+   ..
+   70                  <div class="cc-how-to-desc">
+   71                      <p>&copy; Tekst jest dostępny na licencji Creative Commons Uznanie autorstwa - Użycie niekomercyjne  Bez utworów zależnych 3.0 Polska. <br/> Pewne prawa zastrzeżone na rzecz autorów. Treść licencji jest dostępna na stronie </p>
+   72:                     <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode">http://creativecommons.org/licenses/by-nc-sa/3.0/pl/legalcode </a>
+   73                      <a href="http://creativecommons.pl/instrukcja-dokument/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć tekst na Scribd </a>
+   74                  </div>
+   ..
+   82                  <div class="cc-how-to-desc">
+   83                      <p>&copy;[Lista autorów], licencja: [CC-BY-NC-ND 3.0] </p>
+   84:                     <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode">http://creativecommons.org/licenses/by-nc-sa/3.0/pl/legalcode </a>
+   85                      <a href="http://creativecommons.pl/instrukcja-wideo/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć video na YT i vimeo</a>
+   86                  </div>
+   ..
+   94                  <div class="cc-how-to-desc">
+   95                      <p>&copy;[Lista autorów], licencja: [CC-BY-NC-ND 3.0] </p>
+   96:                     <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode">http://creativecommons.org/licenses/by-nc-nd/3.0/pl/legalcode </a>
+   97                      <a href="http://creativecommons.pl/instrukcja-audio/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć muzykę Souncloud </a>
+   98                  </div>
+   ..
+  117                  <div class="cc-how-to-desc">
+  118                      <p>&copy;[Lista autorów], źródło: [link do materiału oryginalnego] licencja źródła: [CC-BY-NC-ND 3.0]</p>
+  119:                     <a href="http://creativecommons.org/licenses/by/3.0/deed.pl,">http://creativecommons.org/licenses/by-nc-sa/3.0/deed.pl, </a>
+  120                      <p> licencja: (dowolna wg wyboru autora utworu zależnego) </p>
+  121                  </div>
+
+/Users/kuba/Desktop/cc-licence-chooser/php/cc-licence-chooser-default-content/cc-licence-chooser-default-outcome-by-nc-sa.php:
+   10       <h3> Uznanie Autorstwa - Użycie niekomercyjne - <BR> Na tych samych warunkach 3.0 Polska </h3>
+   11  
+   12:      <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/pl" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">  </span> http://creativecommons.org/licenses/by-nc-sa/3.0/pl </a> 
+   13  
+   14  <div class="cc-outcome-hline"> </div>
+   ..
+   17  <h4 class="cc-licence-desc">
+   18      
+   19:     <span class="cc-license-text"> Ten utwór można:  </span>
+   20      
+   21  </h4>
+   ..
+   32  <h4 class="cc-licence-desc">
+   33      
+   34:     <span class="cc-license-text"> Pod warunkiem:  </span>
+   35      
+   36  </h4>
+   ..
+   60                  <div class="cc-how-to-desc">
+   61                      <p>&copy;[Lista autorów], licencja: [CC-BY-NC-SA 3.0] </p>
+   62:                     <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/pl/legalcode">http://creativecommons.org/licenses/by-nc-sa/3.0/pl/legalcode </a>
+   63                      <a href="http://creativecommons.pl/instrukcja-foto/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć fotografę na picassa/fickr</a>
+   64                  </div>
+   ..
+   72                  <div class="cc-how-to-desc">
+   73                      <p>&copy; Tekst jest dostępny na licencji Creative Commons Uznanie autorstwa - Użycie niekomercyjne - Na tych samych warunkach 3.0 Polska. <br/> Pewne prawa zastrzeżone na rzecz autorów. Treść licencji jest dostępna na stronie </p>
+   74:                     <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/pl/legalcode">http://creativecommons.org/licenses/by-nc-sa/3.0/pl/legalcode </a>
+   75                      <a href="http://creativecommons.pl/instrukcja-dokument/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć tekst na Scribd </a>
+   76                  </div>
+   ..
+   84                  <div class="cc-how-to-desc">
+   85                      <p>&copy;[Lista autorów], licencja: [CC-BY-NC-SA 3.0] </p>
+   86:                     <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/pl/legalcode">http://creativecommons.org/licenses/by-nc-sa/3.0/pl/legalcode </a>
+   87                      <a href="http://creativecommons.pl/instrukcja-wideo/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć video na YT i vimeo</a>
+   88                  </div>
+   ..
+   96                  <div class="cc-how-to-desc">
+   97                      <p>&copy;[Lista autorów], licencja: [CC-BY-NC-SA 3.0] </p>
+   98:                     <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/pl/legalcode">http://creativecommons.org/licenses/by-nc-sa/3.0/pl/legalcode </a>
+   99                      <a href="http://creativecommons.pl/instrukcja-audio/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć muzykę Souncloud </a>
+  100                  </div>
+  ...
+  119                  <div class="cc-how-to-desc">
+  120                      <p>&copy;[Lista autorów], źródło: [link do materiału oryginalnego] licencja źródła: [CC-BY-NC-SA 3.0]</p>
+  121:                     <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.pl,">http://creativecommons.org/licenses/by-nc-sa/3.0/deed.pl, </a>
+  122                      <p> licencja: (dowolna wg wyboru autora utworu zależnego) </p>
+  123                  </div>
+
+/Users/kuba/Desktop/cc-licence-chooser/php/cc-licence-chooser-default-content/cc-licence-chooser-default-outcome-by-nc.php:
+   10       <h3> Uznanie Autorstwa - Użycie niekomercyjne 3.0 Polska </h3>
+   11  
+   12:      <a href="http://creativecommons.org/licenses/by-nc/3.0/pl" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">  </span> http://creativecommons.org/licenses/by-nc-nd/3.0/pl </a> 
+   13  
+   14  <div class="cc-outcome-hline"> </div>
+   ..
+   17  <h4 class="cc-licence-desc">
+   18      
+   19:     <span class="cc-license-text"> Ten utwór można:  </span>
+   20      
+   21  </h4>
+   ..
+   32  <h4 class="cc-licence-desc">
+   33      
+   34:     <span class="cc-license-text"> Pod warunkiem:  </span>
+   35      
+   36  </h4>
+   ..
+   60                  <div class="cc-how-to-desc">
+   61                      <p>&copy;[Lista autorów], licencja: [CC-BY-NC 3.0] </p>
+   62:                     <a href="http://creativecommons.org/licenses/by/3.0/pl/legalcode">http://creativecommons.org/licenses/by-nc/3.0/pl/legalcode </a>
+   63                      <a href="http://creativecommons.pl/instrukcja-foto/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć fotografę na picassa/fickr</a>
+   64                  </div>
+   ..
+   72                  <div class="cc-how-to-desc">
+   73                      <p>&copy; Tekst jest dostępny na licencji Creative Commons Uznanie autorstwa - Użycie niekomercyjne 3.0 Polska. <br/> Pewne prawa zastrzeżone na rzecz autorów. Treść licencji jest dostępna na stronie </p>
+   74:                     <a href="http://creativecommons.org/licenses/by-nc/3.0/pl/legalcode">http://creativecommons.org/licenses/by-nc/3.0/pl/legalcode </a>
+   75                      <a href="http://creativecommons.pl/instrukcja-dokument/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć tekst na Scribd </a>
+   76                  </div>
+   ..
+   84                  <div class="cc-how-to-desc">
+   85                      <p>&copy;[Lista autorów], licencja: [CC-BY-NC 3.0] </p>
+   86:                     <a href="http://creativecommons.org/licenses/by-nc/3.0/pl/legalcode">http://creativecommons.org/licenses/by-nc/3.0/pl/legalcode </a>
+   87                      <a href="http://creativecommons.pl/instrukcja-wideo/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć video na YT i vimeo</a>
+   88                  </div>
+   ..
+   96                  <div class="cc-how-to-desc">
+   97                      <p>&copy;[Lista autorów], licencja: [CC-BY-NC 3.0] </p>
+   98:                     <a href="http://creativecommons.org/licenses/by-nc/3.0/pl/legalcode">http://creativecommons.org/licenses/by/3.0/pl/legalcode </a>
+   99                      <a href="http://creativecommons.pl/instrukcja-audio/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć muzykę Souncloud </a>
+  100                  </div>
+  ...
+  119                  <div class="cc-how-to-desc">
+  120                      <p>&copy;[Lista autorów], źródło: [link do materiału oryginalnego] licencja źródła: [CC-BY-NC 3.0]</p>
+  121:                     <a href="http://creativecommons.org/licenses/by/3.0/deed.pl,">http://creativecommons.org/licenses/by/3.0/deed.pl, </a>
+  122                      <p> licencja: (dowolna wg wyboru autora utworu zależnego) </p>
+  123                  </div>
+
+/Users/kuba/Desktop/cc-licence-chooser/php/cc-licence-chooser-default-content/cc-licence-chooser-default-outcome-by-nd.php:
+    9       <h3> Uznanie Autorstwa - Bez utworów zależnych 3.0 Polska </h3>
+   10  
+   11:      <a href="http://creativecommons.org/licenses/by-nd/3.0/pl" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">  </span> http://creativecommons.org/licenses/by-nd/3.0/pl </a> 
+   12  
+   13  <div class="cc-outcome-hline"> </div>
+   ..
+   16  <h4 class="cc-licence-desc">
+   17      
+   18:     <span class="cc-license-text"> Ten utwór można:  </span>
+   19      
+   20  </h4>
+   ..
+   30  <h4 class="cc-licence-desc">
+   31      
+   32:     <span class="cc-license-text"> Pod warunkiem:  </span>
+   33      
+   34  </h4>
+   ..
+   57                  <div class="cc-how-to-desc">
+   58                      <p>&copy;[Lista autorów], licencja: [CC-BY-ND 3.0] </p>
+   59:                     <a href="http://creativecommons.org/licenses/by-nd/3.0/pl/legalcode">http://creativecommons.org/licenses/by-nd/3.0/pl/legalcode </a>
+   60                      <a href="http://creativecommons.pl/instrukcja-foto/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć fotografę na picassa/fickr</a>
+   61                  </div>
+   ..
+   69                  <div class="cc-how-to-desc">
+   70                      <p>&copy; Tekst jest dostępny na licencji Creative Commons Uznanie autorstwa – Bez utworów zależnych 3.0 Polska <br/> Pewne prawa zastrzeżone na rzecz autorów. Treść licencji jest dostępna na stronie </p>
+   71:                     <a href="http://creativecommons.org/licenses/by-nd/3.0/pl/legalcode">http://creativecommons.org/licenses/by-nd/3.0/pl/legalcode </a>
+   72                      <a href="http://creativecommons.pl/instrukcja-dokument/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć tekst na Scribd </a>
+   73                  </div>
+   ..
+   81                  <div class="cc-how-to-desc">
+   82                      <p>&copy;[Lista autorów], licencja: [CC-BY-ND 3.0] </p>
+   83:                     <a href="http://creativecommons.org/licenses/by-nd/3.0/pl/legalcode">http://creativecommons.org/licenses/by-nd/3.0/pl/legalcode </a>
+   84                      <a href="http://creativecommons.pl/instrukcja-wideo/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć video na YT i vimeo</a>
+   85                  </div>
+   ..
+   93                  <div class="cc-how-to-desc">
+   94                      <p>&copy;[Lista autorów], licencja: [CC-BY-ND 3.0] </p>
+   95:                     <a href="http://creativecommons.org/licenses/by-nd/3.0/pl/legalcode">http://creativecommons.org/licenses/by/3.0/pl/legalcode </a>
+   96                      <a href="http://creativecommons.pl/instrukcja-audio/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć muzykę Souncloud </a>
+   97                  </div>
+   ..
+  116                  <div class="cc-how-to-desc">
+  117                      <p>&copy;[Lista autorów], źródło: [link do materiału oryginalnego] licencja źródła: [CC-BY-ND 3.0]</p>
+  118:                     <a href="http://creativecommons.org/licenses/by/3.0/deed.pl,">http://creativecommons.org/licenses/by-nd/3.0/deed.pl, </a>
+  119                      <p> licencja: (dowolna wg wyboru autora utworu zależnego) </p>
+  120                  </div>
+
+/Users/kuba/Desktop/cc-licence-chooser/php/cc-licence-chooser-default-content/cc-licence-chooser-default-outcome-by-sa.php:
+    9       <h3> Uznanie Autorstwa - Na tych samych warunkach 3.0 Polska </h3>
+   10  
+   11:      <a href="http://creativecommons.org/licenses/by-sa/3.0/pl" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">  </span> http://creativecommons.org/licenses/by-sa/3.0/pl </a> 
+   12  
+   13  <div class="cc-outcome-hline"> </div>
+   ..
+   16  <h4 class="cc-licence-desc">
+   17      
+   18:     <span class="cc-license-text"> Ten utwór można:  </span>
+   19      
+   20  </h4>
+   ..
+   31  <h4 class="cc-licence-desc">
+   32      
+   33:     <span class="cc-license-text"> Pod warunkiem:  </span>
+   34      
+   35  </h4>
+   ..
+   58                  <div class="cc-how-to-desc">
+   59                      <p>&copy;[Lista autorów], licencja: [CC-BY-SA 3.0] </p>
+   60:                     <a href="http://creativecommons.org/licenses/by-sa/3.0/pl/legalcode">http://creativecommons.org/licenses/by-sa/3.0/pl/legalcode </a>
+   61                      <a href="http://creativecommons.pl/instrukcja-foto/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć fotografę na picassa/fickr</a>
+   62                  </div>
+   ..
+   70                  <div class="cc-how-to-desc">
+   71                      <p>&copy; Tekst jest dostępny na licencji Creative Commons Uznanie autorstwa-Na tych samych warunkach 3.0 Polska. <br/> Pewne prawa zastrzeżone na rzecz autorów. Treść licencji jest dostępna na stronie </p>
+   72:                     <a href="http://creativecommons.org/licenses/by-sa/3.0/pl/legalcode">http://creativecommons.org/licenses/by-sa/3.0/pl/legalcode </a>
+   73                      <a href="http://creativecommons.pl/instrukcja-dokument/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć tekst na Scribd </a>
+   74                  </div>
+   ..
+   82                  <div class="cc-how-to-desc">
+   83                      <p>&copy;[Lista autorów], licencja: [CC-BY-SA 3.0] </p>
+   84:                     <a href="http://creativecommons.org/licenses/by-sa/3.0/pl/legalcode">http://creativecommons.org/licenses/by-sa/3.0/pl/legalcode </a>
+   85                      <a href="http://creativecommons.pl/instrukcja-wideo/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć video na YT i vimeo</a>
+   86                  </div>
+   ..
+   94                  <div class="cc-how-to-desc">
+   95                      <p>&copy;[Lista autorów], licencja: [CC-BY-SA 3.0] </p>
+   96:                     <a href="http://creativecommons.org/licenses/by-sa/3.0/pl/legalcode">http://creativecommons.org/licenses/by-sa/3.0/pl/legalcode </a>
+   97                      <a href="http://creativecommons.pl/instrukcja-audio/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć muzykę Souncloud </a>
+   98                  </div>
+   ..
+  117                  <div class="cc-how-to-desc">
+  118                      <p>&copy;[Lista autorów], źródło: [link do materiału oryginalnego] licencja źródła: [CC-BY-SA 3.0]</p>
+  119:                     <a href="http://creativecommons.org/licenses/by-sa/3.0/deed.pl,">http://creativecommons.org/licenses/by-sa/3.0/deed.pl, </a>
+  120                      <p> licencja: (dowolna wg wyboru autora utworu zależnego) </p>
+  121                  </div>
+
+/Users/kuba/Desktop/cc-licence-chooser/php/cc-licence-chooser-default-content/cc-licence-chooser-default-outcome-by.php:
+   10       <h3> Uznanie Autorstwa  3.0 Polska </h3>
+   11  
+   12:      <a href="http://creativecommons.org/licenses/by/3.0/pl" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">  </span> http://creativecommons.org/licenses/by/3.0/pl </a> 
+   13  
+   14  <div class="cc-outcome-hline"> </div>
+   ..
+   17  <h4 class="cc-licence-desc">
+   18      
+   19:     <span class="cc-license-text"> Ten utwór można:  </span>
+   20      
+   21  </h4>
+   ..
+   32  <h4 class="cc-licence-desc">
+   33      
+   34:     <span class="cc-license-text"> Pod warunkiem:  </span>
+   35      
+   36  </h4>
+   ..
+   58                  <div class="cc-how-to-desc">
+   59                      <p>&copy;[Lista autorów], licencja: [CC-BY 3.0] </p>
+   60:                     <a href="http://creativecommons.org/licenses/by/3.0/pl/legalcode">http://creativecommons.org/licenses/by/3.0/pl/legalcode </a>
+   61                      <a href="http://creativecommons.pl/instrukcja-foto/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć fotografę na picassa/fickr</a>
+   62                  </div>
+   ..
+   70                  <div class="cc-how-to-desc">
+   71                      <p>&copy; Tekst jest dostępny na licencji Creative Commons Uznanie autorstwa 3.0 Polska. <br/> Pewne prawa zastrzeżone na rzecz autorów. Treść licencji jest dostępna na stronie </p>
+   72:                     <a href="http://creativecommons.org/licenses/by/3.0/pl/legalcode">http://creativecommons.org/licenses/by/3.0/pl/legalcode </a>
+   73                      <a href="http://creativecommons.pl/instrukcja-dokument/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć tekst na Scribd </a>
+   74                  </div>
+   ..
+   82                  <div class="cc-how-to-desc">
+   83                      <p>&copy;[Lista autorów], licencja: [CC-BY 3.0] </p>
+   84:                     <a href="http://creativecommons.org/licenses/by/3.0/pl/legalcode">http://creativecommons.org/licenses/by/3.0/pl/legalcode </a>
+   85                      <a href="http://creativecommons.pl/instrukcja-wideo/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć video na YT i vimeo</a>
+   86                  </div>
+   ..
+   94                  <div class="cc-how-to-desc">
+   95                      <p>&copy;[Lista autorów], licencja: [CC-BY 3.0] </p>
+   96:                     <a href="http://creativecommons.org/licenses/by/3.0/pl/legalcode">http://creativecommons.org/licenses/by/3.0/pl/legalcode </a>
+   97                      <a href="http://creativecommons.pl/instrukcja-audio/" class="cc-green-highlight" data-target="_blank"> <span class="cc-link-arrow-right">&nbsp; </span> zobacz jak oznaczyć muzykę Souncloud </a>
+   98                  </div>
+   ..
+  117                  <div class="cc-how-to-desc">
+  118                      <p>&copy;[Lista autorów], źródło: [link do materiału oryginalnego] licencja źródła: [CC -BY 3.0]</p>
+  119:                     <a href="http://creativecommons.org/licenses/by/3.0/deed.pl,">http://creativecommons.org/licenses/by/3.0/deed.pl, </a>
+  120                      <p> licencja: (dowolna wg wyboru autora utworu zależnego) </p>
+  121                  </div>
+
+/Users/kuba/Desktop/cc-licence-chooser/php/cc-licence-chooser-front.php:
+   52  		<div class="cc-clear"> &nbsp; </div>
+   53  		<div id="cc-footer-vivid-webchefs-cnt">
+   54: 			<p> <?_e('Aplikacja dostępna jest na licencji', 'cc-licence-chooser');?> <a href="http://creativecommons.org/licenses/by/3.0/pl/" data-tagert="_blank" class="cc-green-highlight"> <?_e('Creative Commons, Uznianie Autorstwa 3.0', 'cc-licence-chooser');?> </a></p>
+   55  			<div id="cc-creative-commons-attibs">
+   56  				<a id="cc-atrib-cc" href="http://centrumcyfrowe.pl" data-target="_blank"> </a>
+
+/Users/kuba/Desktop/cc-licence-chooser/php/cc-licence-chooser-settings.php:
+   19  		<h2 class="nav-tab-wrapper">
+   20  			<ul>
+   21: 				<li><a href="#tabs-1" class="nav-tab"><?_e('Ekran powitalny', 'cc-license-chooser') ?></a></li>
+   22: 				<li><a href="#tabs-2" class="nav-tab"><?_e('Podgląd pytań', 'cc-license-chooser') ?></a></li>
+   23: 				<li><a href="#tabs-3" class="nav-tab"><?_e('Możliwe przypadki ', 'cc-license-chooser') ?></a></li>
+   24  			</ul>
+   25  		</h2>
+   ..
+   96  	echo '<div class="wrap">';
+   97  	echo '<div id="icon-options-general" class="icon32"> <br> </div>';
+   98: 	echo '<h2>' . __('Konfiguracja i zmiana treści dla CC Licence Chooser', 'cc-license-chooser') . '</h2>';
+   99  	echo '<p>' . __(' Aby wstawić kreator wyboru licencji na dowolną stronę proszę zastosować shortcode <strong> [cc_licence_chooser] </strong> . <br/> Kreator jest responsywny, lecz część jego zachowania determinuje szablon graficzny używany na stronie - sugerujemy wstawianie kreatora na stronach bez menu bocznego - sidebar. <br/> Podobnie jest również z jego wyglądem - niektóre rzeczy mogą zostać ndapisane przez szablon pomimo tego iż elementy kreatora mają przypisane unikalne id i klasy css. ', 'cc-licence-chooser') . ' <p>';
+  100  	echo '</div>';
+
+94 matches across 10 files

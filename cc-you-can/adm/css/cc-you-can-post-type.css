@@ -1,0 +1,33 @@
+#poststuff h2.cc-you-can-editor-title {
+	margin-bottom: 0px;
+	margin-top: 45px;
+}
+
+.cc-you-can-options-div {
+	margin-bottom: 15px;
+}
+
+#cc-sortable li {
+	margin: 10px;
+	border: 1px dotted #000000;
+	padding: 5px;
+	background: #ffffff;
+	cursor: pointer;
+}
+
+#cc_you_can_order {
+	display: none;
+}
+
+.cc_you_can_order_type {
+	float: right;
+	color: #666666;
+}
+
+#cc_you_can_work_tooltip, #cc_you_can_work_thumbnail_content {
+	width: 100%;
+}
+
+#cc_you_can_content_metabox .wp-editor-container {
+	background-color: #ffffff;
+}
